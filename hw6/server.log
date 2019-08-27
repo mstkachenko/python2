@@ -1,0 +1,28 @@
+2019-08-25 18:54:50,408-INFO-Server started with 127.0.0.1:8000
+2019-08-25 18:57:15,399-INFO-Client was detected 127.0.0.1:64500
+2019-08-25 18:57:59,045-DEBUG-Client 127.0.0.1:8000 send request {'action': 'echo', 'data': 'test', 'time': 1566741478.9281}
+2019-08-25 19:45:37,805-INFO-Server started with 127.0.0.1:8000
+2019-08-25 19:45:44,434-INFO-Client was detected 127.0.0.1:51286
+2019-08-25 19:45:49,151-ERROR-Client 127.0.0.1:8000 call action with name asdasd
+2019-08-25 20:04:40,004-INFO-Client was detected 127.0.0.1:51814
+2019-08-26 16:26:54,935-INFO-Server started with 127.0.0.1:8000
+2019-08-26 16:27:08,786-INFO-Client was detected 127.0.0.1:59153
+2019-08-26 16:27:25,865-DEBUG-Client 127.0.0.1:8000 send request {'action': 'echo', 'data': 'Test', 'time': 1566818845.721121}
+2019-08-26 16:28:49,700-INFO-Server shutdown
+2019-08-26 16:28:57,716-INFO-Server started with 127.0.0.1:8000
+2019-08-26 16:29:01,241-INFO-Client was detected 127.0.0.1:59207
+2019-08-26 16:29:06,743-DEBUG-Client 127.0.0.1:8000 send request {'action': 'echo', 'data': 'Test', 'time': 1566818946.732754}
+2019-08-26 16:33:09,713-INFO-Client was detected 127.0.0.1:59311
+2019-08-26 16:33:14,393-INFO-Server started with 127.0.0.1:8000
+2019-08-26 16:33:17,882-INFO-Client was detected 127.0.0.1:59313
+2019-08-26 16:33:21,649-DEBUG-Client 127.0.0.1:8000 send request {'action': 'echo', 'data': 'test', 'time': 1566819201.634817}
+2019-08-26 16:35:33,979-INFO-Client was detected 127.0.0.1:59370
+2019-08-26 16:35:42,582-INFO-Server started with 127.0.0.1:8000
+2019-08-26 16:35:45,873-INFO-Client was detected 127.0.0.1:59373
+2019-08-26 16:35:50,266-DEBUG-echo_controller-{'action': 'echo', 'time': 1566819350.266819, 'code': 200, 'data': 'test'}
+2019-08-26 16:35:50,266-DEBUG-Client 127.0.0.1:8000 send request {'action': 'echo', 'data': 'test', 'time': 1566819350.249827}
+2019-08-27 13:54:27,259-INFO-Client was detected 127.0.0.1:60035
+2019-08-27 13:54:34,409-INFO-Server started with 127.0.0.1:8000
+2019-08-27 13:54:39,677-INFO-Client was detected 127.0.0.1:60037
+2019-08-27 13:54:43,811-DEBUG-echo_controller-{'action': 'echo', 'time': 1566896083.811831, 'code': 200, 'data': 'test'}
+2019-08-27 13:54:43,812-DEBUG-Client 127.0.0.1:8000 send request {'action': 'echo', 'data': 'test', 'time': 1566896083.692366}
