@@ -67,19 +67,20 @@ try:
             connections.append(client)
         except:
             pass
-    
-        rlist, wlist, xlist = select.select (connections, connections, connections, 0)
 
-        for read_client in rlist:
-            bytes_request = read_client.recv(config.get('buffersize'))
-            requests.append(bytes_request)
+        if connections !=[]:
+            rlist, wlist, xlist = select.select (connections, connections, connections, 0)
 
-        if requests:
-            bytes_requests = requests.pop()
-            bytes_response = handle_tcp_request(bytes_request)
+            for read_client in rlist:
+                bytes_request = read_client.recv(config.get('buffersize'))
+                requests.append(bytes_request)
 
-            for write_client in wlist:      
-                write_client.send(bytes_response)
+            if requests:
+                bytes_requests = requests.pop()
+                bytes_response = handle_tcp_request(bytes_request)
+
+                for write_client in wlist:      
+                    write_client.send(bytes_response)
 
 except KeyboardInterrupt:
     
