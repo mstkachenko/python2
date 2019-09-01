@@ -1,0 +1,6 @@
+jupyter
+chardet
+pyyaml
+numpy
+pytest
+pytest-cov
