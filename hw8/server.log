@@ -1,0 +1,216 @@
+2019-08-25 18:54:50,408-INFO-Server started with 127.0.0.1:8000
+2019-08-25 18:57:15,399-INFO-Client was detected 127.0.0.1:64500
+2019-08-25 18:57:59,045-DEBUG-Client 127.0.0.1:8000 send request {'action': 'echo', 'data': 'test', 'time': 1566741478.9281}
+2019-08-25 19:45:37,805-INFO-Server started with 127.0.0.1:8000
+2019-08-25 19:45:44,434-INFO-Client was detected 127.0.0.1:51286
+2019-08-25 19:45:49,151-ERROR-Client 127.0.0.1:8000 call action with name asdasd
+2019-08-25 20:04:40,004-INFO-Client was detected 127.0.0.1:51814
+2019-08-26 16:26:54,935-INFO-Server started with 127.0.0.1:8000
+2019-08-26 16:27:08,786-INFO-Client was detected 127.0.0.1:59153
+2019-08-26 16:27:25,865-DEBUG-Client 127.0.0.1:8000 send request {'action': 'echo', 'data': 'Test', 'time': 1566818845.721121}
+2019-08-26 16:28:49,700-INFO-Server shutdown
+2019-08-26 16:28:57,716-INFO-Server started with 127.0.0.1:8000
+2019-08-26 16:29:01,241-INFO-Client was detected 127.0.0.1:59207
+2019-08-26 16:29:06,743-DEBUG-Client 127.0.0.1:8000 send request {'action': 'echo', 'data': 'Test', 'time': 1566818946.732754}
+2019-08-26 16:33:09,713-INFO-Client was detected 127.0.0.1:59311
+2019-08-26 16:33:14,393-INFO-Server started with 127.0.0.1:8000
+2019-08-26 16:33:17,882-INFO-Client was detected 127.0.0.1:59313
+2019-08-26 16:33:21,649-DEBUG-Client 127.0.0.1:8000 send request {'action': 'echo', 'data': 'test', 'time': 1566819201.634817}
+2019-08-26 16:35:33,979-INFO-Client was detected 127.0.0.1:59370
+2019-08-26 16:35:42,582-INFO-Server started with 127.0.0.1:8000
+2019-08-26 16:35:45,873-INFO-Client was detected 127.0.0.1:59373
+2019-08-26 16:35:50,266-DEBUG-echo_controller-{'action': 'echo', 'time': 1566819350.266819, 'code': 200, 'data': 'test'}
+2019-08-26 16:35:50,266-DEBUG-Client 127.0.0.1:8000 send request {'action': 'echo', 'data': 'test', 'time': 1566819350.249827}
+2019-08-27 13:54:27,259-INFO-Client was detected 127.0.0.1:60035
+2019-08-27 13:54:34,409-INFO-Server started with 127.0.0.1:8000
+2019-08-27 13:54:39,677-INFO-Client was detected 127.0.0.1:60037
+2019-08-27 13:54:43,811-DEBUG-echo_controller-{'action': 'echo', 'time': 1566896083.811831, 'code': 200, 'data': 'test'}
+2019-08-27 13:54:43,812-DEBUG-Client 127.0.0.1:8000 send request {'action': 'echo', 'data': 'test', 'time': 1566896083.692366}
+2019-08-29 15:30:34,018-INFO-Client was detected 127.0.0.1:50903
+2019-08-29 15:31:22,164-INFO-Server started with 127.0.0.1:8000
+2019-08-29 15:31:38,622-INFO-Client was detected 127.0.0.1:50936
+2019-08-29 15:31:52,313-DEBUG-echo_controller-{'action': 'echo', 'time': 1567074712.313599, 'code': 200, 'data': 'Test'}
+2019-08-29 15:31:52,313-DEBUG-Client 127.0.0.1:8000 send request {'action': 'echo', 'data': 'Test', 'time': 1567074712.166626}
+2019-08-29 15:33:04,139-INFO-Client was detected 127.0.0.1:50999
+2019-08-29 15:33:09,501-DEBUG-echo_controller-{'action': 'echo', 'time': 1567074789.50139, 'code': 200, 'data': 'Test'}
+2019-08-29 15:33:09,501-DEBUG-Client 127.0.0.1:8000 send request {'action': 'echo', 'data': 'Test', 'time': 1567074789.50039, 'token': '383e0a6a40d88aa44d9c4e5946246365407e5102eb764b10b42539ef0371c5b2'}
+2019-08-29 16:24:34,228-INFO-Client was detected 127.0.0.1:52299
+2019-08-29 16:24:39,196-INFO-Server started with 127.0.0.1:8000
+2019-08-29 16:24:44,845-INFO-Client was detected 127.0.0.1:52302
+2019-08-29 16:24:55,747-DEBUG-echo_controller-{'action': 'echo', 'time': 1567077895.747254, 'code': 200, 'data': 'Test'}
+2019-08-29 16:24:55,748-DEBUG-Client 127.0.0.1:8000 send request {'action': 'echo', 'data': 'Test', 'time': 1567077895.64182, 'token': '8059a551e731df6eee6a532f649f3115086198c4607e2cd550b82b5600275dca'}
+2019-08-29 16:27:00,709-INFO-Client was detected 127.0.0.1:52384
+2019-08-29 16:27:05,824-INFO-Server started with 127.0.0.1:8000
+2019-08-29 16:27:09,596-INFO-Client was detected 127.0.0.1:52393
+2019-08-29 16:27:16,232-DEBUG-Client 127.0.0.1:8000 send request {'action': 'echo', 'data': 'Test', 'time': 1567078036.221948, 'token': None}
+2019-08-29 16:38:48,891-INFO-Client was detected 127.0.0.1:52659
+2019-08-29 16:38:54,404-DEBUG-Client 127.0.0.1:8000 send request {'action': 'echo', 'data': 'Time', 'time': 1567078734.403171, 'token': None}
+2019-08-29 16:43:10,783-INFO-Client was detected 127.0.0.1:52796
+2019-08-29 16:43:16,128-INFO-Server started with 127.0.0.1:8000
+2019-08-29 16:43:19,309-INFO-Client was detected 127.0.0.1:52798
+2019-08-29 16:43:23,034-DEBUG-Client 127.0.0.1:8000 send request {'action': 'error', 'data': 'asda', 'time': 1567079002.878579, 'token': None}
+2019-08-29 16:44:35,270-INFO-Client was detected 127.0.0.1:52833
+2019-08-29 16:44:38,892-CRITICAL-Exception - Custom server error
+2019-08-29 16:44:58,498-INFO-Client was detected 127.0.0.1:52846
+2019-08-29 16:45:05,358-CRITICAL-Exception - Custom server error
+2019-08-29 16:45:29,742-INFO-Client was detected 127.0.0.1:52861
+2019-08-29 16:45:33,189-DEBUG-Client 127.0.0.1:8000 send request {'action': 'error', 'data': 'Time', 'time': 1567079133.188365, 'token': None}
+2019-08-29 16:48:47,583-INFO-Client was detected 127.0.0.1:52956
+2019-08-29 16:48:51,718-DEBUG-Client 127.0.0.1:8000 send request {'action': 'error', 'data': 'asda', 'time': 1567079331.717574, 'token': None}
+2019-08-29 16:49:03,164-INFO-Client was detected 127.0.0.1:52978
+2019-08-29 16:49:08,953-CRITICAL-Exception - Custom server error
+2019-08-29 21:38:03,705-INFO-Server shutdown
+2019-08-29 21:39:44,087-INFO-Server started with 127.0.0.1:8000
+2019-08-29 21:40:24,620-INFO-Client was detected 127.0.0.1:54858
+2019-08-29 21:44:11,594-INFO-Server started with 127.0.0.1:8000
+2019-08-29 21:44:16,309-INFO-Client was detected 127.0.0.1:54970
+2019-08-29 21:44:21,080-DEBUG-echo_controller-{'action': 'echo', 'time': 1567097061.080259, 'code': 200, 'data': 'Test'}
+2019-08-29 21:44:21,082-DEBUG-Client send request {'action': 'echo', 'data': 'Test', 'time': 1567097060.902035, 'token': '33cec4ae7cd45e5767b639321f4692cfa6c25421fa4ff9a4a2126e4cc5126abb'}
+2019-08-29 22:50:15,835-INFO-Client was detected 127.0.0.1:56742
+2019-08-29 22:50:24,464-INFO-Server started with 127.0.0.1:8000
+2019-08-29 22:50:30,273-INFO-Client was detected 127.0.0.1:56758
+2019-08-29 22:50:36,770-DEBUG-echo_controller-{'action': 'echo', 'time': 1567101036.77071, 'code': 200, 'data': 'Test'}
+2019-08-29 22:50:36,770-DEBUG-Client send request {'action': 'echo', 'data': 'Test', 'time': 1567101036.584887, 'token': '27580830447996224f2fd85699e94c8e5f3efd3acfba30da321fbae50a877aeb'}
+2019-08-29 22:51:58,455-INFO-Client was detected 127.0.0.1:56808
+2019-08-29 22:52:02,771-DEBUG-echo_controller-{'action': 'echo', 'time': 1567101122.771666, 'code': 200, 'data': 'Test'}
+2019-08-29 22:52:02,771-DEBUG-Client send request {'action': 'echo', 'data': 'Test', 'time': 1567101122.770661, 'token': '447405e2fbdd9186759d426a0959bc603620d4dab84771155e28f25426d4a455'}
+2019-08-30 11:22:33,318-INFO-Client was detected 127.0.0.1:60666
+2019-08-30 11:26:53,718-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:29:27,171-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:30:25,157-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:30:44,546-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:31:06,329-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:31:42,878-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:33:50,314-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:34:09,743-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:38:48,991-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:39:06,270-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:39:19,890-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:39:31,479-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:39:53,005-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:39:59,611-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:40:06,552-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:46:18,821-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:47:17,993-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:48:19,029-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:48:29,942-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:50:43,777 - INFO - Server started with 127.0.0.1:8000
+2019-08-30 11:51:00,805 - INFO - Server started with 127.0.0.1:8000
+2019-08-30 11:53:35,336 - INFO - Server started with 127.0.0.1:8000
+2019-08-30 11:58:03,355-INFO-Server started with 127.0.0.1:8000
+2019-08-30 11:58:53,823-INFO-Server started with 127.0.0.1:8000
+2019-08-30 13:22:33,818-INFO-Server started with 127.0.0.1:8000
+2019-08-30 13:22:54,548-INFO-Server started with 127.0.0.1:8000
+2019-08-30 13:23:12,174-INFO-Server started with 127.0.0.1:8000
+2019-08-30 13:24:09,247-INFO-Server started with 127.0.0.1:8000
+2019-08-30 13:29:51,405-INFO-Server started with 127.0.0.1:8000
+2019-08-30 13:45:32,417-INFO-Server started with 127.0.0.1:8000
+2019-08-30 13:46:46,741-INFO-Server started with 127.0.0.1:8000
+2019-08-30 13:48:36,392-INFO-Server started with 127.0.0.1:8000
+2019-08-30 13:48:44,266-INFO-Server started with 127.0.0.1:8000
+2019-08-30 13:58:47,959-INFO-Server started with 127.0.0.1:8000
+2019-08-30 13:59:30,293-INFO-Server started with 127.0.0.1:8000
+2019-08-30 13:59:44,904-INFO-Server started with 127.0.0.1:8000
+2019-08-30 14:01:33,012-INFO-Server started with 127.0.0.1:8000
+2019-08-30 14:02:11,568-INFO-Server started with 127.0.0.1:8000
+2019-08-30 14:02:20,277-INFO-Server started with 127.0.0.1:8000
+2019-08-30 14:02:34,042-INFO-Server started with 127.0.0.1:8000
+2019-08-30 14:03:10,143-INFO-Server started with 127.0.0.1:8000
+2019-08-30 14:25:13,266-INFO-Server started with 127.0.0.1:8000
+2019-08-30 14:51:25,952-INFO-Server started with 127.0.0.1:8000
+2019-08-30 14:51:51,835-INFO-Server started with 127.0.0.1:8000
+2019-08-30 14:51:59,704-INFO-Server started with 127.0.0.1:8000
+2019-08-30 14:52:09,397-INFO-Server started with 127.0.0.1:8000
+2019-08-30 14:52:34,400-INFO-Server started with 127.0.0.1:8000
+2019-08-30 14:53:26,731-INFO-Server started with 127.0.0.1:8000
+2019-08-30 14:53:34,543-INFO-Server started with 127.0.0.1:8000
+2019-08-30 14:54:04,881-INFO-Client was detected 127.0.0.1:50904
+2019-08-30 14:54:58,886-INFO-Client was detected 127.0.0.1:50934
+2019-08-30 14:55:42,621-INFO-Server started with 127.0.0.1:8000
+2019-08-30 14:56:11,094-INFO-Server started with 127.0.0.1:8000
+2019-08-30 14:56:43,895-INFO-Server started with 127.0.0.1:8000
+2019-08-30 14:59:08,040-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:04:26,073-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:08:27,887-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:09:19,952-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:09:28,411-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:10:27,501-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:10:38,305-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:10:45,058-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:12:51,344-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:13:09,337-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:20:33,890-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:21:13,755-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:21:34,546-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:22:17,777-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:36:54,742-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:37:37,994-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:37:54,072-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:49:35,479-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:50:06,641-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:50:17,099-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:51:03,487-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:53:07,635-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:53:38,305-INFO-Server started with 127.0.0.1:8000
+2019-08-30 15:55:20,858-INFO-Server started with 127.0.0.1:8000
+2019-08-30 16:01:32,387-INFO-Server started with 127.0.0.1:8000
+2019-08-30 16:07:24,366-INFO-Server started with 127.0.0.1:8000
+2019-08-30 16:09:04,676-INFO-Server started with 127.0.0.1:8000
+2019-08-30 16:09:16,752-INFO-Server started with 127.0.0.1:8000
+2019-08-30 16:10:40,900-INFO-Server started with 127.0.0.1:8000
+2019-08-30 16:35:18,154-INFO-Server started with 127.0.0.1:8000
+2019-09-01 18:03:32,302-INFO-Server started with 127.0.0.1:8000
+2019-09-01 18:04:06,089-INFO-Client was detected 127.0.0.1:54817
+2019-09-01 18:13:55,051-INFO-Client was detected 127.0.0.1:55220
+2019-09-01 18:14:10,845-DEBUG-echo_controller-{'action': 'echo', 'time': 1567343650.844028, 'code': 200, 'data': 'Test'}
+2019-09-01 18:14:10,845-DEBUG-Client send request {'action': 'echo', 'data': 'Test', 'time': 1567343648.66229, 'token': '0915717ce3eab3f47c7882f1121ed5065a89818a7b56cbb9ff591dbb1e7e97f3'}
+2019-09-01 18:14:37,119-INFO-Server started with 127.0.0.1:8000
+2019-09-01 18:15:06,108-INFO-Client was detected 127.0.0.1:55260
+2019-09-01 18:15:10,880-DEBUG-echo_controller-{'action': 'echo', 'time': 1567343710.879638, 'code': 200, 'data': 'Test'}
+2019-09-01 18:15:10,881-DEBUG-Client send request {'action': 'echo', 'data': 'Test', 'time': 1567343710.865645, 'token': '36c99c5c079add8bc559ab65d1772d35139aeb00dbea07b821cc9543fd4fe906'}
+2019-09-01 18:15:20,588-INFO-Client was detected 127.0.0.1:55273
+2019-09-01 18:15:28,274-DEBUG-echo_controller-{'action': 'echo', 'time': 1567343728.274975, 'code': 200, 'data': 'Test'}
+2019-09-01 18:15:28,275-DEBUG-Client send request {'action': 'echo', 'data': 'Test', 'time': 1567343728.274975, 'token': 'b73b56f34d046cc2f0f496c34b802a405f46fe9216859f9890c24a82a51dd79f'}
+2019-09-01 21:40:21,921-INFO-Server started with 127.0.0.1:8000
+2019-09-01 21:40:36,278-INFO-Client was detected 127.0.0.1:61147
+2019-09-01 21:40:52,142-INFO-Client was detected 127.0.0.1:61152
+2019-09-01 21:41:00,656-DEBUG-echo_controller-{'action': 'echo', 'time': 1567356060.656399, 'code': 200, 'data': 'Test'}
+2019-09-01 21:41:00,656-DEBUG-Client send request {'action': 'echo', 'data': 'Test', 'time': 1567356060.345959, 'token': '5d8e6001caafa686b2a9dfe12216314f757fdcd3c297c463236abb0be9a160b5'}
+2019-09-01 21:42:43,191-INFO-Client was detected 127.0.0.1:61208
+2019-09-01 21:42:45,936-ERROR-Client call action with name 
+2019-09-01 21:43:02,113-INFO-Server started with 127.0.0.1:8000
+2019-09-01 21:43:09,587-INFO-Client was detected 127.0.0.1:61222
+2019-09-01 21:43:17,214-INFO-Client was detected 127.0.0.1:61230
+2019-09-01 21:43:22,729-DEBUG-echo_controller-{'action': 'echo', 'time': 1567356202.72977, 'code': 200, 'data': 'Test'}
+2019-09-01 21:43:22,730-DEBUG-Client send request {'action': 'echo', 'data': 'Test', 'time': 1567356202.71578, 'token': '19b1a9e0517ae38af2b8c85eaa0eb0bdd24b5af6e15f40decf4fbf93f847542a'}
+2019-09-01 21:45:17,069-INFO-Server started with 127.0.0.1:8000
+2019-09-01 21:45:21,648-INFO-Client was detected 127.0.0.1:61284
+2019-09-01 21:45:25,299-INFO-Client was detected 127.0.0.1:61285
+2019-09-01 21:45:33,329-DEBUG-echo_controller-{'action': 'echo', 'time': 1567356333.329858, 'code': 200, 'data': 'Test'}
+2019-09-01 21:45:33,329-DEBUG-Client send request {'action': 'echo', 'data': 'Test', 'time': 1567356333.239857, 'token': 'f6c06228d9104bd496d0c251fef84c9c4610ea25d91837057f4e0a36c703d7b9'}
+2019-09-01 21:59:09,858-INFO-Server started with 127.0.0.1:8000
+2019-09-01 22:01:20,277-INFO-Client was detected 127.0.0.1:61746
+2019-09-01 22:01:29,185-INFO-Client was detected 127.0.0.1:61750
+2019-09-01 22:02:04,790-DEBUG-echo_controller-{'action': 'echo', 'time': 1567357324.790757, 'code': 200, 'data': 'Test'}
+2019-09-01 22:02:04,791-DEBUG-Client send request {'action': 'echo', 'data': 'Test', 'time': 1567357324.736608, 'token': '3194cac657f3cb293acf8f9890031cb70b058e19dbb1369e865b2ca7c6752a2b'}
+2019-09-01 22:02:17,663-DEBUG-echo_controller-{'action': 'echo', 'time': 1567357337.663389, 'code': 200, 'data': 'Test'}
+2019-09-01 22:02:17,664-DEBUG-Client send request {'action': 'echo', 'data': 'Test', 'time': 1567357337.660389, 'token': '189c7c7cbda49a8dd697ce64325dcb5d4d23c83d73f5a76b7e607ab3395dac1b'}
+2019-09-01 22:34:59,736-INFO-Server started with 127.0.0.1:8000
+2019-09-01 22:35:10,365-INFO-Client was detected 127.0.0.1:50516
+2019-09-01 22:35:24,911-INFO-Client was detected 127.0.0.1:50533
+2019-09-01 22:35:55,915-DEBUG-echo_controller-{'action': 'echo', 'time': 1567359355.91597, 'code': 200, 'data': 'Test'}
+2019-09-01 22:35:55,916-DEBUG-Client send request {'action': 'echo', 'data': 'Test', 'time': 1567359355.532747, 'token': '951892d1718c6f1ba1ddb138da276130d31bf96a4d64bf1d3d08d884a1ee1d8e'}
+2019-09-01 22:39:40,246-DEBUG-echo_controller-{'action': 'echo', 'time': 1567359580.246574, 'code': 200, 'data': 'Test'}
+2019-09-01 22:39:40,246-DEBUG-Client send request {'action': 'echo', 'data': 'Test', 'time': 1567359580.244575, 'token': 'cb615eaf12ba6598d174bbf20ce4db17b3dc875d96cb71ca72e7c17cd204e6a8'}
+2019-09-01 22:49:44,993-INFO-Server shutdown
+2019-09-01 22:49:52,998-INFO-Server started with 127.0.0.1:8000
+2019-09-01 22:52:27,402-INFO-Client was detected 127.0.0.1:51082
+2019-09-01 22:52:35,767-INFO-Client was detected 127.0.0.1:51098
+2019-09-01 22:52:41,430-DEBUG-echo_controller-{'action': 'echo', 'time': 1567360361.430227, 'code': 200, 'data': 'Test'}
+2019-09-01 22:52:41,431-DEBUG-Client send request {'action': 'echo', 'data': 'Test', 'time': 1567360361.310282, 'token': '639495917e06526c422a7053258dd292a8132bea426e3dec45ca1b8d1d446cb1'}
+2019-09-01 22:56:45,547-INFO-Server shutdown
+2019-09-01 22:56:48,991-INFO-Server started with 127.0.0.1:8000
+2019-09-01 22:56:53,008-INFO-Client was detected 127.0.0.1:51204
+2019-09-01 22:56:57,273-INFO-Client was detected 127.0.0.1:51206
+2019-09-01 22:57:10,489-DEBUG-echo_controller-{'action': 'echo', 'time': 1567360630.489622, 'code': 200, 'data': 'Test'}
+2019-09-01 22:57:10,489-DEBUG-Client send request {'action': 'echo', 'data': 'Test', 'time': 1567360630.478628, 'token': 'f1436be6afc1db27071ad5c194c0acbe50a55cc4cf748438de4bb030de66283e'}
